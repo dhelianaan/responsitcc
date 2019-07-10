@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "mac",
+    "password": "",
+    "database": "minipos",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "hgbbrvhulekguj",
+    "password": "3b085ef62652b5ad88e17baac3c06c917f7e1eb21e201b45a05970308338da93",
+    "database": "dq1rmok01eiro",
+    "host": "ec2-107-20-173-2.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}

@@ -1,7 +1,10 @@
-# go-pg-crud
+# Express + Sequelize + Postgre Crud
 
-This is an example of CRUD web application writen in pure Golang. It makes use of Postgres as database.
-
-![01.png](https://github.com/maiconio/go-pg-crud/blob/master/screenshots/01.png)
-
-![02.png](https://github.com/maiconio/go-pg-crud/blob/master/screenshots/02.png)
+Package Yang digunakan 
+- express 
+- sequelize (untuk orm )
+- pg (untuk database postgre)
+- connect flash (untuk flash session)
+- ejs (view engine)
+- body parser (untuk parsing data yang di request)
+- faker js (untuk seeder, data faker nya)
